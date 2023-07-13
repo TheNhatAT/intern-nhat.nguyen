@@ -1,0 +1,33 @@
+{
+  "name": "intern-web-nhat.nguyen",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pionero-io/intern-web-nhat.nguyen.git"
+  },
+  "author": "TheNhatAT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pionero-io/intern-web-nhat.nguyen/issues"
+  },
+  "homepage": "https://github.com/pionero-io/intern-web-nhat.nguyen#readme",
+  "keywords": [
+    "Test"
+  ],
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "process": "^0.11.10",
+    "prompt": "^1.1.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "select-random-file": "^1.2.0"
+  }
+}
